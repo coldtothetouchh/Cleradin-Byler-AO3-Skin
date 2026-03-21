@@ -4,7 +4,7 @@ First off, HUGE credit to @markkrpg for the Cleradin Art used in this skin!
 
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
-1) Copy the code provided here. There is a copy button at the top of the code box in github.
+1) Copy the code provided here. There is a copy button at the top of the code box in github.  
    https://github.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/blob/main/Cleradin%20Skin%20CSS%20Code
 2) Sign into AO3 if you haven't already. At the top of the page, tap on your username.
 3) From the dropdown menu that appears, tap on Dashboard.
