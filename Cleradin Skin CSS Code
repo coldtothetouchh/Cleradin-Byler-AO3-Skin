@@ -1,0 +1,680 @@
+#greeting img.icon {
+  display: none;
+}
+
+#main a {
+  color: white;
+}
+
+.comment div.icon {
+  box-shadow: none;
+  border: 2px solid #ab3740;
+}
+
+body {
+  font: Georgia, serif;
+  color: white;
+}
+
+#outer,
+#header .menu,
+ol.index.group,
+.listbox .index {
+  background: url("https://i.postimg.cc/nVKD8dyZ/Pixel-Background2.jpg");
+  background-size: 300px;
+}
+
+#header .logo,
+#header .heading sup {
+  display: none;
+}
+
+#header h1.heading span {
+  display: none;
+}
+
+#header h1.heading a::before {
+  display: inline-block;
+  width: 160px;
+  height: 40px;
+  content: " ";
+  background-image: url("https://64.media.tumblr.com/e685e88fb61d772890c312eb38ccbea0/ad2373978cc6ca4e-91/s2048x3072/a1ef9b3223b3f1d8fab4db140d17082a7c62f0ab.png");
+  background-size: 160px 40px;
+}
+
+#header {
+  background-image: url("https://i.postimg.cc/fbPTxwK3/cleradinartbymarkkrpg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-color: #131624;
+}
+
+#header .heading {
+  height: 20em;
+}
+
+#header .primary {
+  background: transparent;
+  box-shadow: none;
+}
+
+#greeting .menu {
+  width: 12em !important;
+}
+
+#header .menu {
+  width: 20em;
+}
+
+#header .menu,
+#header a.dropdown-toggle,
+#greeting .user > li:nth-of-type(3) a,
+#footer .heading,
+#footer a,
+#footer li {
+  color: #ab3740;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+#header .menu li a {
+  color: #ab3740 !important;
+  border: none !important;
+  font-weight: normal !important;
+}
+
+#header .menu li {
+  border-bottom: none;
+}
+
+#header a.dropdown-toggle:hover,
+#greeting .user > li:nth-of-type(3) a:hover {
+  background: rgba(197, 179, 127, .5);
+}
+
+.splash .news blockquote p:first-child {
+  padding-left: 105px;
+  background: url("https://i.postimg.cc/LsFRp2Sh/willthewisedrawing.png");
+  background-size: 110px 90px;
+  background-position-x: left;
+  background-position-y: top;
+  background-repeat: no-repeat;
+}
+
+.social.module p {
+  padding-left: 83px;
+  background: url("https://i.postimg.cc/HLPL1FSk/bylerheart.png");
+  background-size: 80px 78px;
+  background-position-x: left;
+  background-position-y: top;
+  background-repeat: no-repeat;
+}
+
+.comment h4.byline {
+  background: #24542f;
+}
+
+.comment .userstuff {
+  padding-right: 67px;
+  padding-bottom: 50px;
+  background: url("https://i.postimg.cc/HLPL1FSk/bylerheart.png");
+  background-position-x: right;
+  background-position-y: top;
+  background-repeat: no-repeat;
+  background-size: 64px 90px;
+}
+
+li.comment {
+  background: transparent;
+  border: 15px solid transparent;
+  border-image: url("https://64.media.tumblr.com/f41ef07fc7997cd770446b21475546f3/7fa12c05ca858dab-b1/s1280x1920/1fc5b46481a0ebb63b5c97bb0faf91f654fd6de4.png") 30 round;
+}
+
+.thread .even {
+  background: #a3925f;
+}
+
+.notice,
+.comment_notice,
+.kudos_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash,
+.LV_invalid {
+  border: 10px solid transparent;
+  border-image: url("https://64.media.tumblr.com/67f8627de4b2213b0bdf08ddb6417407/7fa12c05ca858dab-41/s75x75_c1/5ff1af4632db977988c7ecec5a8990e744f180dc.png") 30 stretch;
+  background: rgba(197, 179, 127, .2);
+  box-shadow: none;
+  color: #a3925f;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions button,
+.actions input,
+input[type="submit"],
+button,
+.actions label {
+  background: linear-gradient(180deg,rgba(179, 159, 97, 1) 0%, rgba(216, 199, 151, 1) 100%);
+  border-style: outset;
+  border-width: 2px;
+  border-color: #c5b37f;
+}
+
+.actions a:hover,
+.actions button:hover,
+.actions input:hover,
+.actions a:focus,
+.actions button:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus {
+  background: rgba(197, 179, 127, .5);
+  box-shadow: none;
+  color: white;
+}
+
+#dashboard a,
+#dashboard span {
+  background: none;
+  color: #ab3740;
+}
+
+#dashboard,
+#dashboard.own,
+#dashboard.admin.region {
+  background: none;
+  color: ab3740;
+}
+
+.actions a:active,
+.current,
+a.current,
+a:link.current,
+#dashboard .current,
+.current a:visited {
+  background: transparent;
+  color: white;
+  box-shadow: none;
+  border: 6px solid transparent;
+  border-image: url("https://64.media.tumblr.com/0849a3a78370bb608bcf2659f2e8950d/7fa12c05ca858dab-b7/s100x200/dc6d6de59b7a362bf6c6b33f4c750bb0d331526a.png") 20% round;
+}
+
+#workskin p:first-child:first-letter,
+li.blurb p:first-child:first-letter {
+  color: #903;
+  float: left;
+  font-family: Georgia, serif;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+#workskin {
+  border: 50px solid transparent;
+  border-image: url("https://64.media.tumblr.com/5b41b48ccce874ea293e7503e1dce1fd/ad2373978cc6ca4e-52/s640x960/422f4d1e1b61066e11832919423caba615241c68.png") 25% round;
+}
+
+div.preface {
+  margin: 0;
+  border-bottom: 2px solid #000;
+}
+
+dl.meta {
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+
+p.kudos {
+  padding-left: 8.3em;
+  background: url("https://i.postimg.cc/X7gdfFWF/bylerdragonpainting.png");
+  background-size: 120px 132px;
+  background-repeat: no-repeat;
+  min-height: 132px;
+  color: white;
+}
+
+#footer.region {
+  border-top: 3px solid #d6caa5;
+  background: url("https://i.postimg.cc/nVKD8dyZ/Pixel-Background2.jpg");
+  background-size: 300px;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #e2d9bf;
+}
+
+fieldset,
+fieldset fieldset {
+  background: transparent;
+  box-shadow: none;
+}
+
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff {
+  background: transparent;
+  border: 40px solid transparent;
+  border-image: url("https://64.media.tumblr.com/7c6a8b656db59323b562c6944ba76763/1cd213b29eeb43b4-0a/s500x750/662198249ccd0ad83982a41fd31928e29b657d72.png") 18% round;
+}
+
+.skins .primary .icon,
+.index .picture .icon {
+  background: url("https://i.postimg.cc/X7gdfFWF/bylerdragonpainting.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.tag .primary .icon {
+  background: url("https://i.postimg.cc/Zq9SpnLH/demohead.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.admin .primary .icon {
+  display: none;
+}
+
+fieldset.warnings {
+  margin: 0;
+  padding: 0;
+}
+
+.home .header h2 {
+  text-align: left;
+  color: white;
+}
+
+.news.admin.home {
+  background: url("https://i.postimg.cc/X7gdfFWF/bylerdragonpainting.png");
+  background-position-x: right;
+  background-position-y: 600px;
+  background-repeat: no-repeat;
+  background-size: 20%;
+  color: white;
+}
+
+.module.news.group .userstuff {
+  width: 80%;
+  text-align: left;
+  color: white;
+}
+
+#main.system.docs.about.region {
+  margin-top: 2em;
+  background: url("https://i.postimg.cc/bY43wJGJ/DEMODOG.png");
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+
+#main.system.docs.about.region {
+  padding-bottom: 20%;
+  margin-bottom: 2em;
+}
+
+.comment .icon .visitor {
+  background: url("https://i.postimg.cc/Zq9SpnLH/demohead.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.media-index .listbox {
+  background: url("https://64.media.tumblr.com/f58fa875ee756e60a1497a5d48e128c0/7fa12c05ca858dab-3e/s1280x1920/15091479880caf89a992d894d98125571482120a.png");
+  background-size: 30%;
+  border: 2px solid #ab3740;
+  box-shadow: none;
+  color: white;
+}
+
+.media-index .listbox h3.heading a {
+  color: #f3f0e5;
+  font-weight: bold;
+  text-shadow: 0px 0px 10px #000;
+}
+
+.profile-show.dashboard.region dl.meta {
+  border: none;
+  box-shadow: none;
+  background: url("https://i.postimg.cc/bY43wJGJ/DEMODOG.png");
+  background-position-x: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.wrapper {
+  box-shadow: none;
+}
+
+.works-show.region div.wrapper {
+  border: none;
+  box-shadow: none;
+  background: url("https://i.postimg.cc/x1Vk8ryh/CLERADINPAINTING.png");
+  background-position-x: right;
+  background-position-y: top;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.dashboard .own {
+  border: 6px solid transparent;
+  border-image: url("https://64.media.tumblr.com/5f8e20c4b20558b11fc275e80b76c74b/7fa12c05ca858dab-cd/s100x200/1a22dcdc080134cc6cfad2c323e023deae3e43fb.png") 20% round;
+  background: transparent;
+  color: white;
+}
+
+.own {
+  background: #e2d9bf;
+}
+
+li.blurb {
+  border: 6px solid transparent;
+  border-image: url("https://64.media.tumblr.com/0849a3a78370bb608bcf2659f2e8950d/7fa12c05ca858dab-b7/s100x200/dc6d6de59b7a362bf6c6b33f4c750bb0d331526a.png") 20% round;
+}
+
+.users-show.dashboard.region .listbox,
+.listbox {
+  background: url("https://64.media.tumblr.com/d25d69318304bd15ebd450f38bef1f95/7fa12c05ca858dab-59/s75x75_c1/c62c92727d706ec3065c46fc1042ad817fc3cb99.png");
+  background-repeat: repeat;
+  box-shadow: none;
+  color: white;
+}
+
+.users-show.dashboard.region .listbox > .heading,
+.listbox > .heading {
+  color: #e8e1cc;
+}
+
+.listbox .index {
+  box-shadow: none;
+  color: white;
+}
+
+form.verbose legend,
+.verbose form legend {
+  background: #e8e1cc;
+  border: 6px solid transparent;
+  border-image: url("https://64.media.tumblr.com/a7ea04b3c984ae0fdee4e12885674674/7fa12c05ca858dab-53/s75x75_c1/ca8d73a0908b0c63e121484792d2b2e8c60d2d3b.png") 30 stretch;
+  box-shadow: none;
+}
+
+.question {
+  color: #ab3740;
+  font-weight: normal;
+}
+
+span.question {
+  background: #dcd1b2;
+  color: #ab3740;
+  font-weight: normal;
+  border: 2px solid #ab3740;
+  box-shadow: none;
+}
+
+#dashboard.own {
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-image: url("https://64.media.tumblr.com/fc5f3eb590f8e3cb5dd70ec1aaa5dcc7/7fa12c05ca858dab-5c/s1280x1920/2226127fb15b689f79bc49f1f125775631548caf.png") 100 round;
+}
+
+.toggled form,
+.dynamic form {
+  border: none;
+  background: transparent;
+  box-shadow: none;
+}
+
+div.dynamic {
+  background: transparent;
+}
+
+#header.region.collection h2 {
+  background: url("https://64.media.tumblr.com/fae2c6241b0edf4517f5b08dfb522475/7fa12c05ca858dab-07/s1280x1920/fd96fa0fa907b6bb07d64fb648c29278fac87b46.png");
+  background-repeat: repeat-x;
+  background-size: contain;
+  color: #f9f7f2;
+  text-shadow: 0px 0px 8px #000;
+}
+
+#dashboard a:hover,
+.statistics .index li:nth-of-type(2n),
+dl.index dd,
+.reading h4.viewed {
+  background: #dcd1b2;
+}
+
+#stat_chart svg {
+  filter: sepia(40%) contrast(90%);
+  border: 10px solid transparent;
+  border-image: url("https://64.media.tumblr.com/17fce7f6a8cbd61067eb2d28c290adc8/7fa12c05ca858dab-5b/s1280x1920/2baa8b24ce7efc8c971319dd025e6c274ffc3ea7.png") 30 round;
+}
+
+.stats-index.dashboard.region .actions.module {
+  margin-top: 2em;
+}
+
+dl.statistics.meta.group {
+  background: url("https://i.postimg.cc/bY43wJGJ/DEMODOG.png");
+  background-position-x: right;
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+  background-size: 250px 232px;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link {
+  display: inline-block;
+  padding: 2px 5px;
+  margin: 2px 0px;
+  border-radius: 5px;
+}
+
+.commas li:after {
+  content: "";
+}
+
+.bookmark .count a {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+
+.warnings .tag {
+  background: #ab3740;
+  color: #f3f0e5 !important;
+  border: 1px solid #ab3740;
+}
+
+.warnings .tag:hover {
+  background: #f3f0e5 !important;
+  color: #ab3740 !important;
+  border: 1px solid #ab3740;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "♥️🔮 ";
+}
+
+li.warnings a,
+dl.meta dd.warning a.tag {
+  background: #ab3740;
+  color: #f3f0e5 !important;
+  border: 1px solid #ab3740;
+}
+
+li.warnings a:hover,
+li.warnings a:visited:hover,
+dl.meta dd.warning a.tag:hover,
+dl.meta dd.warning a.tag:visited:hover {
+  background: #f3f0e5;
+  border: 1px solid #ab3740;
+  color: #ab3740 !important;
+}
+
+.relationships .tag {
+  background: #366c89;
+  color: #f3f0e5 !important;
+  border: 1px solid #366c89;
+}
+
+.relationships .tag:hover {
+  background: #f3f0e5 !important;
+  color: #366c89 !important;
+  border: 1px solid #366c89;
+}
+
+li.relationships a,
+dl.meta dd.relationship a.tag {
+  background: #366c89;
+  border: 1px solid #366c89;
+  color: #f3f0e5 !important;
+}
+
+li.relationships a:hover,
+li.relationships a:visited:hover,
+dl.meta dd.relationship a.tag:hover,
+dl.meta dd.relationship a.tag:visited:hover {
+  background: #f3f0e5;
+  border: 1px solid #366c89;
+  color: #366c89 !important;
+}
+
+.characters .tag {
+  background: #ef984d;
+  color: #f9f7f2 !important;
+  border: 1px solid #ef984d;
+}
+
+.characters .tag:hover {
+  background: #f3f0e5 !important;
+  color: #cb7040 !important;
+  border: 1px solid #cb7040;
+}
+
+li.characters a,
+dl.meta dd.character a.tag {
+  background: #ef984d;
+  color: #f9f7f2 !important;
+  border: 1px solid #ef984d;
+}
+
+li.characters a:hover,
+li.characters a:visited:hover,
+dl.meta dd.character a.tag:hover,
+dl.meta dd.character a.tag:visited:hover {
+  background: #f3f0e5;
+  border: 1px solid #cb7040;
+  color: #cb7040 !important;
+}
+
+.freeforms .tag {
+  background: #226a64;
+  color: #f3f0e5 !important;
+  border: 1px solid #226a64;
+}
+
+.freeforms .tag:hover {
+  background: #f3f0e5 !important;
+  color: #226a64 !important;
+  border: 1px solid #226a64;
+}
+
+li.freeforms a,
+dl.meta dd.freeform a.tag {
+  background: #226a64 !important;
+  color: f3f0e5 !important;
+  border: 1px solid #226a64;
+}
+
+li.freeforms a:hover,
+li.freeforms a:visited:hover,
+dl.meta dd.freeform a.tag:hover,
+dl.meta dd.freeform a.tag:visited:hover {
+  background: #f3f0e5 !important;
+  color: #226a64 !important;
+  border: 1px solid #226a64;
+}
+
+.favorite.module.odd {
+  background: url("https://i.postimg.cc/T2yvsKMJ/PALADIN.png");
+  background-position-x: right;
+  background-position-y: bottom;
+  background-size: 40%;
+  background-repeat: no-repeat;
+}
+
+.resp-sharing-button--twitter,
+.resp-sharing-button--tumblr {
+  background: #366c89 !important;
+  border: 1px solid #366c89 !important;
+  border-radius: 5px;
+}
+
+.admin.userstuff ul:nth-of-type(1) {
+  background: url("https://i.postimg.cc/LsFRp2Sh/willthewisedrawing.png");
+  background-position-x: right;
+  background-position-y: bottom;
+  background-size: 150px 193px;
+  background-repeat: no-repeat;
+}
+
+ul.work.navigation.actions,
+ul.chapter.navigation.actions {
+  background: url("https://i.postimg.cc/nVKD8dyZ/Pixel-Background2.jpg");
+  background-size: 300px;
+  padding: 0.5em 0;
+  margin: 0;
+}
+
+ul.work.navigation.actions li,
+ul.chapter.navigation.actions li {
+  display: inline-block;
+  margin: 0.25em;
+}
+
+ul.work.navigation.actions li a,
+ul.chapter.navigation.actions li a {
+  display: block;
+}
+
+ul.work.navigation.actions li a:hover,
+ul.chapter.navigation.actions li a:hover {
+  transform: none !important;
+  margin: 0.25em !important;
+  padding: inherit !important;
+  background: rgba(197, 179, 127, .5);
+}
+
+li.blurb p.status:first-child:first-letter {
+  font-size: inherit;
+  float: none;
+  padding: 0;
+  line-height: inherit;
+}
+
+#main form label,
+#main form .notes,
+#main form p.character_counter,
+#main form .instructions,
+#main form dd,
+#main fieldset p,
+#main .help.symbol,
+#main .landmark {
+  color: white !important;
+}
