@@ -3,6 +3,8 @@
 First off, HUGE credit to @markkrpg for the Cleradin Art used in this skin!
 https://x.com/markkrpg/status/2019930170917093413?s=20
 
+If you have any feedback or run into any issues with the skin, please message me on twitter! (same username)
+
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
 1) Copy the code provided here. There is a copy button at the top of the code box in github.  
