@@ -45,13 +45,18 @@ ol.index.group,
 #header {
   background-image: url("https://i.postimg.cc/fbPTxwK3/cleradinartbymarkkrpg.jpg");
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  background-color: #131624;
+  background-position: center top;
+  background-size: contain;
+  background-color: #000000;
+  min-height: 20em;
+  height: 40vw;
+  max-height: 500px;
 }
 
 #header .heading {
-  height: 20em;
+  min-height: 20em;
+  height: 40vw;
+  max-height: 500px;
 }
 
 #header .primary {
@@ -677,4 +682,40 @@ li.blurb p.status:first-child:first-letter {
 #main .help.symbol,
 #main .landmark {
   color: white !important;
+}
+
+#greeting {
+  position: absolute;
+  top: 0.8em;
+  right: 1em;
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0.3em 0.6em !important;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 0.9em;
+  z-index: 15;
+}
+
+#greeting li {
+  clear: none;
+  float: left;
+  border-bottom: none;
+  border-right: none;
+  margin-top: 0;
+  padding: 0 8px;
+}
+
+#greeting li:last-child {
+  border-right: none;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em;
+}
+
+#greeting .menu {
+  width: 12em !important;
 }
