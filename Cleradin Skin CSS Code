@@ -43,19 +43,19 @@ ol.index.group,
 }
 
 #header {
-  background-image: url("https://i.postimg.cc/fbPTxwK3/cleradinartbymarkkrpg.jpg");
+  background-image: url("https://i.postimg.cc/3R0cLm6g/cleradinartbymarkkrpg2.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: contain;
   background-color: #000000;
   min-height: 20em;
-  height: 40vw;
+  height: 72vw;
   max-height: 500px;
 }
 
 #header .heading {
   min-height: 20em;
-  height: 40vw;
+  height: 72vw;
   max-height: 500px;
 }
 
@@ -686,7 +686,7 @@ li.blurb p.status:first-child:first-letter {
 
 #greeting {
   position: absolute;
-  top: 0.8em;
+  bottom: 0.8em;
   right: 1em;
   background: transparent !important;
   background-color: transparent !important;
