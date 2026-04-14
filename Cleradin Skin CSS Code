@@ -20,7 +20,7 @@ body {
 #header .menu,
 ol.index.group,
 .listbox .index {
-  background: url("https://i.postimg.cc/nVKD8dyZ/Pixel-Background2.jpg");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/Pixel-Background.jpg");
   background-size: 300px;
 }
 
@@ -43,7 +43,7 @@ ol.index.group,
 }
 
 #header {
-  background-image: url("https://i.postimg.cc/3R0cLm6g/cleradinartbymarkkrpg2.jpg");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/art-by-markkrpg.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: contain;
@@ -100,7 +100,7 @@ ol.index.group,
 
 .splash .news blockquote p:first-child {
   padding-left: 105px;
-  background: url("https://i.postimg.cc/LsFRp2Sh/willthewisedrawing.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/will-the-wise-drawing.png");
   background-size: 110px 90px;
   background-position-x: left;
   background-position-y: top;
@@ -109,7 +109,7 @@ ol.index.group,
 
 .social.module p {
   padding-left: 83px;
-  background: url("https://i.postimg.cc/HLPL1FSk/bylerheart.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/byler-heart-shield.png");
   background-size: 80px 78px;
   background-position-x: left;
   background-position-y: top;
@@ -123,7 +123,7 @@ ol.index.group,
 .comment .userstuff {
   padding-right: 67px;
   padding-bottom: 50px;
-  background: url("https://i.postimg.cc/HLPL1FSk/bylerheart.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/byler-heart-shield.png");
   background-position-x: right;
   background-position-y: top;
   background-repeat: no-repeat;
@@ -241,7 +241,7 @@ dl.meta {
 
 p.kudos {
   padding-left: 8.3em;
-  background: url("https://i.postimg.cc/X7gdfFWF/bylerdragonpainting.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/byler-dragon-painting.png");
   background-size: 120px 132px;
   background-repeat: no-repeat;
   min-height: 132px;
@@ -250,7 +250,7 @@ p.kudos {
 
 #footer.region {
   border-top: 3px solid #d6caa5;
-  background: url("https://i.postimg.cc/nVKD8dyZ/Pixel-Background2.jpg");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/Pixel-Background.jpg");
   background-size: 300px;
 }
 
@@ -277,13 +277,13 @@ form blockquote.userstuff {
 
 .skins .primary .icon,
 .index .picture .icon {
-  background: url("https://i.postimg.cc/X7gdfFWF/bylerdragonpainting.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/byler-dragon-painting.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .tag .primary .icon {
-  background: url("https://i.postimg.cc/Zq9SpnLH/demohead.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/demo-head.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -303,7 +303,7 @@ fieldset.warnings {
 }
 
 .news.admin.home {
-  background: url("https://i.postimg.cc/X7gdfFWF/bylerdragonpainting.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/byler-dragon-painting.png");
   background-position-x: right;
   background-position-y: 600px;
   background-repeat: no-repeat;
@@ -319,7 +319,7 @@ fieldset.warnings {
 
 #main.system.docs.about.region {
   margin-top: 2em;
-  background: url("https://i.postimg.cc/bY43wJGJ/DEMODOG.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/demo-dog.png");
   background-size: 25%;
   background-repeat: no-repeat;
   background-position-x: center;
@@ -332,7 +332,7 @@ fieldset.warnings {
 }
 
 .comment .icon .visitor {
-  background: url("https://i.postimg.cc/Zq9SpnLH/demohead.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/demo-head.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -354,7 +354,7 @@ fieldset.warnings {
 .profile-show.dashboard.region dl.meta {
   border: none;
   box-shadow: none;
-  background: url("https://i.postimg.cc/bY43wJGJ/DEMODOG.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/demo-dog.png");
   background-position-x: right;
   background-size: contain;
   background-repeat: no-repeat;
@@ -368,7 +368,7 @@ fieldset.warnings {
 .works-show.region div.wrapper {
   border: none;
   box-shadow: none;
-  background: url("https://i.postimg.cc/x1Vk8ryh/CLERADINPAINTING.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/byler-cleradin-painting.png");
   background-position-x: right;
   background-position-y: top;
   background-size: 50%;
@@ -474,7 +474,7 @@ dl.index dd,
 }
 
 dl.statistics.meta.group {
-  background: url("https://i.postimg.cc/bY43wJGJ/DEMODOG.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/demo-dog.png");
   background-position-x: right;
   background-position-y: bottom;
   background-repeat: no-repeat;
@@ -617,7 +617,7 @@ dl.meta dd.freeform a.tag:visited:hover {
 }
 
 .favorite.module.odd {
-  background: url("https://i.postimg.cc/T2yvsKMJ/PALADIN.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/paladin-drawing.png");
   background-position-x: right;
   background-position-y: bottom;
   background-size: 40%;
@@ -632,7 +632,7 @@ dl.meta dd.freeform a.tag:visited:hover {
 }
 
 .admin.userstuff ul:nth-of-type(1) {
-  background: url("https://i.postimg.cc/LsFRp2Sh/willthewisedrawing.png");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/will-the-wise-drawing.png");
   background-position-x: right;
   background-position-y: bottom;
   background-size: 150px 193px;
@@ -641,7 +641,7 @@ dl.meta dd.freeform a.tag:visited:hover {
 
 ul.work.navigation.actions,
 ul.chapter.navigation.actions {
-  background: url("https://i.postimg.cc/nVKD8dyZ/Pixel-Background2.jpg");
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Cleradin-Byler-AO3-Skin/refs/heads/main/Pixel-Background.jpg");
   background-size: 300px;
   padding: 0.5em 0;
   margin: 0;
